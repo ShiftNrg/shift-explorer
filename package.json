@@ -65,7 +65,7 @@
     "split": "^1.0.0",
     "underscore": "^1.8.3",
     "webpack": "^2.4.1",
-    "webpack-bundle-analyzer": "^2.9.2",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-server": "^2.10.0"
   },
   "devDependencies": {
